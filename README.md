@@ -6,6 +6,8 @@ Classificação de Imagens (ou Identificação de Imagens)um dos principais caso
 Classificação de Melanoma
 Neste notebook, construiremos um modelo para identificar melanomas malignos.
 
+<img src=\"https://github.com/williamsaraiva/cancer_diag_with_keras/blob/master/exemp-google.jpg?raw=true\" width=\"700\" height=\"450\" align=\"center\"/>\n
+
 Nós usaremos o [ISIC-Archive -  The International Skin Imaging Collaboration: Melanoma Project ](https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery). Com mais de 20000 imagens de melanomas benignos e mais de 2000 imagens para melanomas malignos.
 
 Utilizamos modelos pré treinados Using Pre-Trained Models e E construiremos as camadas com o modelo VGG19 para classificar as imagens como benigno ou maligno.
